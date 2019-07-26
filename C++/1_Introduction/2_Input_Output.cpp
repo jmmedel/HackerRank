@@ -1,7 +1,7 @@
 // https://www.hackerrank.com/challenges/Input_and_Output
 
 
-OBJECTIVE
+/*OBJECTIVE
 
 In this challenge, we're practicing reading input from stdin and printing output to stdout.
 
@@ -54,7 +54,7 @@ The sum of the three numbers is 1+2+7=10.
 ----------------------------------------------------------------------------
 
 
-CODE :-
+CODE :- */
 
 // https://www.hackerrank.com/challenges/Input and Output
 /* Made by SHIVAM SHARMA */
